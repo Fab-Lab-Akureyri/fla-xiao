@@ -8,3 +8,6 @@ KiCad útgáfa byggð á [fabxiao](https://fabacademy.org/2020/labs/leon/student
 ## Todo: 
 
 - [ ] Uppfæra readme
+- [ ] Uppfæra myndir
+- [ ] Lagfæra schematic
+- [ ] BOM
