@@ -5,9 +5,26 @@ KiCad útgáfa byggð á [fabxiao](https://fabacademy.org/2020/labs/leon/student
 ![Schematic](img/kicad-sch.jpg)
 ![PCB](img/kicad-pcb.jpg)
 
-## Todo: 
+## Breytingar
 
-- [ ] Uppfæra readme
-- [ ] Uppfæra myndir
-- [ ] Lagfæra schematic
-- [ ] BOM
+- [x] Notast við sökkla fyrir Xiao tölvunar
+- [x] Rásum endurraðar, hægt að fræsa með 0.4mm bita. 
+- [x] Íhlutum þjappað aðeins
+
+## BOM / Íhlutalisti
+
+| Íhlutir               | Magn  |
+| ---                   | ---   |
+| FR1 bretti            | 1 stk | 
+| XIAO ESP32C3 / RP2040 | 1 stk |
+| 0Ω viðnám             | 1 stk |
+| 499Ω viðnám           | 1 stk |
+| 1kΩ viðnám            | 1 stk |
+| LED                   | 1 stk |
+| Takki                 | 1 stk |
+| Sökkull               | 2 stk |
+| 90° kvk tengi         | 2 stk |
+
+## TODO 
+
+Bæta BOM
