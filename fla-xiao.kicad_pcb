@@ -867,8 +867,8 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp fc9dfff9-0270-4e32-83ea-6ec9714ca630))
   (gr_line (start 126.3 127.975) (end 126.3 148.85)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp fda45508-1fee-4bf3-8482-bd3f70b24c60))
-  (gr_text "FLA" (at 138.325 143.9 45) (layer "F.Cu") (tstamp 69a82c15-993b-4c48-bbf6-514527f736fc)
-    (effects (font (size 2 2.2) (thickness 0.4)))
+  (gr_text "FLA" (at 138.15 144.575 45) (layer "F.Cu" knockout) (tstamp 69a82c15-993b-4c48-bbf6-514527f736fc)
+    (effects (font (size 2 2) (thickness 0.5) bold))
   )
 
   (segment (start 141.057596 152.565554) (end 141.057596 149.600355) (width 0.4) (layer "F.Cu") (net 1) (tstamp 90b72943-91d2-42dc-9b66-c45e4cd920b8))
