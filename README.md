@@ -13,17 +13,22 @@ KiCad útgáfa af [fabxiao](https://fabacademy.org/2020/labs/leon/students/adria
 
 ## BOM / Íhlutalisti
 
+Gott að nota 3+4 sökkla fyrir tölvuna, annars bara klippa niður. 
+
 | Íhlutir               | Magn  |
 | ---                   | ---   |
 | FR1 bretti            | 1 stk | 
-| XIAO ESP32C3 / RP2040 | 1 stk |
-| 0Ω viðnám             | 1 stk |
-| 499Ω viðnám           | 1 stk |
-| 1kΩ viðnám            | 1 stk |
-| LED                   | 1 stk |
-| Takki                 | 1 stk |
-| Sökkull               | 2 stk |
-| 90° kvk tengi         | 2 stk |
+| [ESP32C3](https://www.digikey.fi/en/products/detail/seeed-technology-co-ltd/113991054/16652880) / [RP2040](https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/102010428/14672129) | 1 stk |
+| [0Ω](https://www.digikey.com/en/products/detail/yageo/RC1206FR-070RL/5698945) viðnám             | 1 stk |
+| [499Ω](https://www.digikey.com/en/products/detail/yageo/RC1206FR-07499RL/728944) viðnám           | 1 stk |
+| [1kΩ](https://www.digikey.com/en/products/detail/yageo/RC1206FR-071KL/728387) viðnám            | 1 stk |
+| 1026 LED, t.d. [blá](https://www.digikey.com/en/products/detail/nextgen-components/1206BBD8100S01/14318403?s=N4IgjCBcoMwOxVAYygMwIYBsDOBTANCAPZQDaIMATAAwAstEAuoQA4AuUIAymwE4CWAOwDmIAL6EAtLUQgUkDDgLEyIAGwwArJpCMxEkJVVgaagASZcAEzPYAtld1igA)                   | 1 stk |
+| [B3SN-takki](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/B3SN-3012/1811776?s=N4IgTCBcDaIM4HcCMSAsYC0A7AJiAugL5A)            | 1 stk |
+| [Sökkull 4pos](https://www.digikey.com/en/products/detail/sullins-connector-solutions/NPTC041KFXC-RC/776054)          | 2 stk |
+| [Sökkull 3pos](https://www.digikey.com/en/products/detail/sullins-connector-solutions/NPTC031KFXC-RC/776053)          | 2 stk |
+| [90° tengi 8 pos](https://www.digikey.com/en/products/detail/samtec-inc/SMH-108-02-G-S/10218741)         | 1 stk |
+| [90° tengi 5 pos](https://www.digikey.com/en/products/detail/samtec-inc/SMH-105-02-G-S/10218735) | 1 stk |
+| [90° tengi 6 pos](https://www.digikey.com/en/products/detail/gct/BG300-06-A-L-A/9859597) | Hægt að nota í staði 5 pos |
 
 ## TODO 
 
