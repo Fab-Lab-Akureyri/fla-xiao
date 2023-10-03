@@ -29,7 +29,3 @@ Gott að nota 3+4 sökkla fyrir tölvuna, annars bara klippa niður.
 | [90° tengi 8 pos](https://www.digikey.com/en/products/detail/samtec-inc/SMH-108-02-G-S/10218741)         | 1 stk |
 | [90° tengi 5 pos](https://www.digikey.com/en/products/detail/samtec-inc/SMH-105-02-G-S/10218735) | 1 stk |
 | [90° tengi 6 pos](https://www.digikey.com/en/products/detail/gct/BG300-06-A-L-A/9859597) | Hægt að nota í staði 5 pos |
-
-## TODO 
-
-Bæta BOM, t.d. linkar
