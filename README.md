@@ -8,12 +8,12 @@ KiCad útgáfa af [fabxiao](https://fabacademy.org/2020/labs/leon/students/adria
 ## Breytingar
 
 - [x] Notast við sökkla fyrir Xiao tölvunar
-- [x] Rásum endurraðar, hægt að fræsa með 0.4mm bita. 
+- [x] Rásum endurrað, hægt að fræsa með 0.4mm bita.
 - [x] Íhlutum þjappað aðeins
 
 ## BOM / Íhlutalisti
 
-Gott að nota 3+4 sökkla fyrir tölvuna, annars bara klippa niður. 
+Hægt að nota 3+4 sökkla fyrir tölvuna eða klippa niður lengri sökkla. 
 
 | Íhlutir               | Magn  |
 | ---                   | ---   |
