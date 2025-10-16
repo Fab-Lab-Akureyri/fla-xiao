@@ -1,0 +1,9 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J3";"PinHeader_2x03_P2.54mm_Vertical_SMD";1;"Conn_PinHeader_2x03_P2.54mm_Vertical_SMD";;;
+2;"R1";"R_1206";1;"R1K";;;
+3;"SW1";"Button_Omron_B3SN_6.0x6.0mm";1;"BUTTON_B3SN";;;
+4;"J4";"PinHeader_1x08_P2.54mm_Horizontal_SMD";1;"Conn_PinHeader_1x08_P2.54mm_Horizontal_SMD";;;
+5;"M1";"SeeedStudio_XIAO_SocketSMD";1;"Module_XIAO-RP2040_SocketSMD";;;
+6;"J5";"PinHeader_1x05_P2.54mm_Horizontal_SMD";1;"Conn_PinHeader_1x05_P2.54mm_Horizontal_SMD";;;
+7;"R2";"R_1206";1;"R499";;;
+8;"D1";"LED_1206";1;"LED";;;
