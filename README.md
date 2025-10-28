@@ -2,15 +2,6 @@
 
 KiCad útgáfa af [fabxiao](https://fabacademy.org/2020/labs/leon/students/adrian-torres/fabxiao.html) eftir meistara [Adrián Torres](https://fabacademy.org/2020/labs/leon/students/adrian-torres/index.html).
 
-
-
-## My first PCB with automatic image generation
-
-### Images
-![top](<github_username>.github.io/<repo_name>/top.png)
-![bottom](<github_username>.github.io/<repo_name>/bottom.png)
-rendered with [kicad-render](https://github.com/linalinn/kicad-render)
-
 ![Schematic](img/kicad-sch.jpg)
 ![PCB](img/kicad-pcb.jpg)
 
