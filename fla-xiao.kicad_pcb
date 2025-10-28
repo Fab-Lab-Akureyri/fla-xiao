@@ -156,7 +156,7 @@
 			)
 		)
 		(property "Value" "Conn_PinHeader_2x03_P2.54mm_Vertical_SMD"
-			(at 0 4.87 0)
+			(at 7.528174 2.97202 270)
 			(layer "F.Fab")
 			(uuid "fec985c7-f284-4d68-8727-af7eebd8b5f8")
 			(effects
@@ -1118,7 +1118,7 @@
 			)
 		)
 		(property "Value" "Conn_PinHeader_1x08_P2.54mm_Horizontal_SMD"
-			(at -2.2 23.4 0)
+			(at 8.5 2.78 90)
 			(layer "F.Fab")
 			(uuid "386d43b2-7241-4cda-90fa-41a77db7fc2a")
 			(effects
