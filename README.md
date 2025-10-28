@@ -10,6 +10,7 @@ KiCad útgáfa af [fabxiao](https://fabacademy.org/2020/labs/leon/students/adria
 - [x] Notast við sökkla fyrir Xiao tölvunar
 - [x] Rásum endurrað, hægt að fræsa með 0.4mm bita.
 - [x] Íhlutum þjappað aðeins
+- [x] .dxf skrá bætt við, hentug fyrir Xtool laser 
 
 ## BOM / Íhlutalisti
 
